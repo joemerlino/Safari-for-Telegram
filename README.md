@@ -21,7 +21,7 @@ The tweak will interrupt the SpringBoard ```_openURLCore``` call used to open Sa
 
 ### Installation
 
-You can find *Safari for Telegram* free of charge on the BigBoss repo.
+You can find *Safari for Telegram* free of charge on my public repo.
 
 ### Development
 
