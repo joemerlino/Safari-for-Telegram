@@ -1,0 +1,9 @@
+Package: com.joemerlino.safarifortelegram
+Name: Safari for Telegram
+Depends: mobilesubstrate, firmware (>= 9.0), gsc.ipad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Open links inside Telegram using SafariViewController instead of Safari on iPads.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
